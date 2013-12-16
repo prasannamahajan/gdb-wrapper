@@ -1,0 +1,14 @@
+This is simple gdb wrapper
+which is used to store session
+
+copy given ruby file into directory which contains c file
+
+1)run command $ruby gdb_wrapper.rb
+2)enter filename of c file
+
+
+to store the current session enter command
+$storesession
+
+to load the previous session enter command
+$loadsession
